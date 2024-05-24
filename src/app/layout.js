@@ -1,3 +1,6 @@
+/** 
+ * @author Cheng You Lee <901126jeff901126@gmail.com>
+ */
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { Flowbite } from "flowbite-react";
